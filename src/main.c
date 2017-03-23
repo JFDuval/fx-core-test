@@ -42,6 +42,8 @@
 // Main
 //****************************************************************************
 
+//Important: board type is defined as a global symbol.
+
 int main()
 {
 	printf("\nStart of tests...\n");
