@@ -37,6 +37,9 @@
 									<listOptionValue builtIn="false" value="../flexsea-system/test"/>
 									<listOptionValue builtIn="false" value="../flexsea-user/inc"/>
 									<listOptionValue builtIn="false" value="../flexsea-user/test"/>
+									<listOptionValue builtIn="false" value="../flexsea-user/MIT_2DoF_Ankle_v1/inc"/>
+									<listOptionValue builtIn="false" value="../flexsea-user/MotorTestBench/inc"/>
+									<listOptionValue builtIn="false" value="../flexsea-user/RICNU_Knee_v1/inc"/>
 								</option>
 								<option id="gnu.c.compiler.option.preprocessor.def.symbols.912892899" name="Defined symbols (-D)" superClass="gnu.c.compiler.option.preprocessor.def.symbols" useByScannerDiscovery="false" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="BOARD_TYPE_FLEXSEA_PLAN"/>
